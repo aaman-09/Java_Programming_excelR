@@ -1,11 +1,13 @@
 package DAY3;
 
-public class While_loop {
+public class DO_while {
 	public static void main(String[] args) {
 		int i = 1;
-		while(i<=5) {
+		do
+		{
 			System.out.println("Virat Kohali " + i);
-			i+=2;
+			i+=1;
 		}
+		while(i<=5);
 	}
 }

@@ -20,5 +20,6 @@ public class choices {
 		}
 		
 		System.out.println("Thanks for Reaching out, Have a Nice Day!");
+		sc.close();
 	}
 }
