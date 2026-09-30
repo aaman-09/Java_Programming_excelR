@@ -17,5 +17,6 @@ public class Condiition_statement {
 		}
 		
 		System.out.println("Thank You!");
+		input.close();
 	}
 }
