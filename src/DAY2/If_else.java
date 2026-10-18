@@ -19,6 +19,8 @@ public class If_else {
 		else {
 			System.out.println("Enter the valid age");
 		}
+		
+		input.close();
 	}
 	
 }

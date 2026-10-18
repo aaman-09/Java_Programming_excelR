@@ -19,6 +19,6 @@ public class Check_Result {
 		else {
 			System.out.println("FAIL, better luck next time");
 		}
-
+		sc.close();
 	}
 }
