@@ -1,4 +1,4 @@
-package DAY6;
+		package DAY6;
 import java.util.*;
 public class Student {
 	private int Roll;  //instance scope 
