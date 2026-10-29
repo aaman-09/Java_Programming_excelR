@@ -1,4 +1,4 @@
-package DAY9;
+package DAY10;
 
 class BankMethods{
 	private double balance;

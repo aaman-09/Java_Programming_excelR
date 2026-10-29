@@ -1,4 +1,4 @@
-package DAY11;
+package DAY10;
 
 public class SingleThread {
 	public static void main(String[] args) {

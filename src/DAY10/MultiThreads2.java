@@ -1,4 +1,4 @@
-package DAY11;
+package DAY10;
 
 
 class Alpha1 extends Thread{

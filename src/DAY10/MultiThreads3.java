@@ -1,4 +1,4 @@
-package DAY11;
+package DAY10;
  class Alpha3 implements Runnable{
 	@Override
 	public void run() {
